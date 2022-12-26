@@ -16,3 +16,4 @@ for x in range(prompt):
     print(random_line(file))
 
 print("")
+
