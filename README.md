@@ -7,7 +7,7 @@ Example:
 .\prompt.exe words.txt 5
 
 Prompts
---------
+
 able
 easy
 stared
